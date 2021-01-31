@@ -1,2 +1,7 @@
-
-node_modules
+.dockerignore
+.idea/
+Jenkinsfile
+Dockerfile
+derrick_conf
+docker-compose.yml
+kubernetes-deployment.yaml
